@@ -10,7 +10,7 @@
 	* <b>[pounce_damage_uncap](https://github.com/accelerator74/Pounce-Damage-Uncap/actions)	1.1.0.0</b> 	    	by Spirit_12 & Accelerator74 - Unlock Hunter Pounce Damage
 
 * Extenstion
-	* <b>l4d2_bugfixes 			1.0.2</b> 			by V10, [windows](https://forums.alliedmods.net/showpost.php?p=2721138&postcount=295) by Spirit_12, [linux](https://forums.alliedmods.net/showpost.php?p=2752412&postcount=301) by SpaceWashingMachine - Fix bugs on server have more than 8 players
+	* <b>l4d2_bugfixes 			1.0.2</b> 			by [V10](https://forums.alliedmods.net/showthread.php?t=121945), [windows](https://forums.alliedmods.net/showpost.php?p=2721138&postcount=295) by Spirit_12, [linux](https://forums.alliedmods.net/showpost.php?p=2752412&postcount=301) by SpaceWashingMachine - Fix bugs on server have more than 8 players
 		* Survivor finale score bug when 5+ players
 		* Charger stop bug when 5+ players
 		* Witch incorrect player attack when 5+ players
