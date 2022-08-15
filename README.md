@@ -58,7 +58,7 @@
 **Step 2:** launch steamcmd , steamcmd would automatically download required files .
 
 **Step 3:** after it says "Loading Steam API...OK.", type
-* force_install_dir ./l4d1/
+* force_install_dir ./l4d2/
 * login anonymous
 * app_update 222860 validate
 
