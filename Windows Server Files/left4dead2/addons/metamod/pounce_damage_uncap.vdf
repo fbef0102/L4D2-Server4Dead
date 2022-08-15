@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"		"pounce_damage_uncap"
+	"file"		"addons/pounce_damage_uncap/pounce_damage_uncap_mm"
+}
