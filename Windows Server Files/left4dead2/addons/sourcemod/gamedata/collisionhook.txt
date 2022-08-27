@@ -1,0 +1,25 @@
+
+/*
+ * quack
+*/
+
+"Games"
+{
+	"left4dead2"
+	{
+		"Signatures"
+		{
+			/* @Crasher_3637 Thanks!
+			 * How to find on windows:
+			 * https://forums.alliedmods.net/showpost.php?p=2737146&postcount=119
+			*/
+			"PassServerEntityFilter"
+			{
+				"windows"	"\x2A\x2A\x2A\x2A\x2A\x2A\x2A\x85\x2A\x75\x2A\xB0\x2A\x5F\x5D\xC3\x56"
+						/* ? ? ? ? ? ? ? 85 ? 75 ? B0 ? 5F 5D C3 56 */
+				"linux"		"@_Z22PassServerEntityFilterPK13IHandleEntityS1_"
+			}
+		}
+	}
+
+}
