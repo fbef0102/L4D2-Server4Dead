@@ -21,7 +21,7 @@
 	* <b>[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases)			0.7.0</b>				by nosoop - memory patches & allocate memory
 	* <b>[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)			1.3.1</b>				by ErikMinekus - Provides HTTP and JSON natives for plugins
 	* <b>[SteamWorks](https://github.com/hexa-core-eu/SteamWorks/releases)				1.2.3</b>				by KyleS & hexa-core-eu - Exposes SteamWorks functions to Developers
-	* <b>[[L4D2] Actions](https://forums.alliedmods.net/showthread.php?p=2771953)				2.6</b>				by BHaType - Extension provides a natives to hook action event handlers and create custom actions
+	* <b>[[L4D2] Actions](https://forums.alliedmods.net/showthread.php?p=2771953)				2.7</b>				by BHaType - Extension provides a natives to hook action event handlers and create custom actions
 	* <b>CollisionHooks	 	0.2</b> 				by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/tree/fix-windows) - Provides a straightforward and easy way to hook and modify collision rules between entities.
 
 # Server Install
