@@ -18,7 +18,7 @@
 	* <b>[voicehook](https://forums.alliedmods.net/showthread.php?t=279231)				3.0</b>				by Accelerator74 - The player who at the moment speak.
 	* <b>[dosprotect](https://forums.alliedmods.net/showthread.php?t=196990)			1.0</b>					by Zephyrus - The player who at the moment speak.
 	* <b>[builtinvotes](https://github.com/L4D-Community/builtinvotes/actions)			0.6.6</b>				by Powerlord, A1mDev - Let plugins use the L4D/L4D2/TF2 built-in vote screens.
-	* <b>[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases)			0.7.0</b>				by nosoop - memory patches & allocate memory
+	* <b>[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases)			0.7.1</b>				by nosoop - memory patches & allocate memory
 	* <b>[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)			1.3.1</b>				by ErikMinekus - Provides HTTP and JSON natives for plugins
 	* <b>[SteamWorks](https://github.com/hexa-core-eu/SteamWorks/releases)				1.2.3</b>				by KyleS & hexa-core-eu - Exposes SteamWorks functions to Developers
 	* <b>[[L4D2] Actions](https://forums.alliedmods.net/showthread.php?p=2771953)				2.7</b>				by BHaType - Extension provides a natives to hook action event handlers and create custom actions
