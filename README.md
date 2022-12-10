@@ -7,7 +7,7 @@
 	* **[MetaMod](https://www.sourcemm.net/downloads.php?branch=1.11-dev)**
 		* **v1.11-git1148** by AlliedModders LLC
 	* **[stripper](https://www.bailopan.net/stripper/snapshots/1.2/)** - Add, filter and modify map entities
-		* **v1.2.2-git129** by BAILOPAN - Modify Map
+		* **v1.2.2-git141** by BAILOPAN - Modify Map
 	* **[l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases)** - Unlock Server Slot Limit
 		* **v1.1.0.2** by ivailosp、Accelerator74
 	* **[Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases)** - Unlock Tickrate
