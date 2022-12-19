@@ -28,7 +28,8 @@
 	* **[dosprotect](https://forums.alliedmods.net/showthread.php?t=196990)** - A working DoS protection extension for L4D2.
 		* **v1.0** by Zephyrus
 		```php
-		dosp_attacks: print all logged attacks, the number of packets received and the time of the last one.
+		//print all logged attacks, the number of packets received and the time of the last one.
+		dosp_attacks 
 		```
 	* **[builtinvotes](https://github.com/L4D-Community/builtinvotes/actions)** - Let plugins use the L4D/L4D2/TF2 built-in vote screens.
 		* **v0.6.6** by Powerlord, A1mDev
