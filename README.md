@@ -25,8 +25,9 @@
 		2. Charger stop bug when 5+ players
 		3. Witch incorrect player attack when 5+ players
 		```
-	* **[dosprotect](https://forums.alliedmods.net/showthread.php?t=196990)** - A working DoS protection extension for L4D2.
-		* **v1.0** by Zephyrus
+		
+	* **[DoS Protect](https://forums.alliedmods.net/showthread.php?t=196990)** - Prevents and records attempted DoS (Denial-of-Service) attacks
+		* (Windows only) **v1.1.0.0** by [Zephyrus](https://forums.alliedmods.net/showthread.php?t=196990)、[cravenge](https://github.com/cravenge/DoS-Protect_SM)
 		```php
 		//print all logged attacks, the number of packets received and the time of the last one.
 		dosp_attacks 
