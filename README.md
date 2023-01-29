@@ -39,7 +39,7 @@
 	* **[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)** - Provides HTTP and JSON natives for plugins
 		* **v1.3.1** by ErikMinekus
 	* **[SteamWorks](https://github.com/hexa-core-eu/SteamWorks/releases)** - Exposes SteamWorks functions to Developers
-		* **v1.2.3** by KyleS & hexa-core-eu
+		* **v1.2.4** by KyleS & hexa-core-eu
 	* **[[L4D2] Actions](https://forums.alliedmods.net/showthread.php?p=2771953)** - Extension provides a natives to hook action event handlers and create custom actions
 		* **v2.7** by BHaType
 	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
