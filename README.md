@@ -33,7 +33,7 @@
 		dosp_attacks 
 		```
 	* **[builtinvotes](https://github.com/L4D-Community/builtinvotes/actions)** - Let plugins use the L4D/L4D2/TF2 built-in vote screens.
-		* **v0.6.6** by Powerlord, A1mDev
+		* **v0.6.9** by Powerlord, A1mDev
 	* **[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases)** - memory patches & allocate memory
 		* **v0.7.1** by nosoop
 	* **[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)** - Provides HTTP and JSON natives for plugins
