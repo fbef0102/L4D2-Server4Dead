@@ -1,5 +1,4 @@
 "Plugin"
 {
-	"file"	"addons/metamod/bin/server"
+	"file"	"../left4dead2/addons/metamod/bin/server"
 }
-
