@@ -31,12 +31,14 @@
 			3. Witch incorrect player attack when 5+ players
 			```
 		
-	* **[DoS Protect](https://forums.alliedmods.net/showthread.php?t=196990)** - Prevents and records attempted DoS (Denial-of-Service) attacks
-		* (Windows only) **v1.1.0.0** by [Zephyrus](https://forums.alliedmods.net/showthread.php?t=196990)、[cravenge](https://github.com/cravenge/DoS-Protect_SM)
+	* **DoS Protect** - Prevents and records attempted DoS (Denial-of-Service) attacks
+		* **v1.1.0.0** by [Zephyrus](https://forums.alliedmods.net/showthread.php?t=196990)
+		* **[windows](https://github.com/cravenge/DoS-Protect_SM)** by cravenge
 			```php
 			//print all logged attacks, the number of packets received and the time of the last one.
 			dosp_attacks 
 			```
+
 	* **[builtinvotes](https://github.com/L4D-Community/builtinvotes/actions)** - Let plugins use the L4D/L4D2/TF2 built-in vote screens.
 		* **v0.7.0** by Powerlord, A1mDev
 	
