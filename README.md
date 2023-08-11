@@ -51,7 +51,7 @@
 	* **[SteamWorks](https://github.com/hexa-core-eu/SteamWorks/releases)** - Exposes SteamWorks functions to Developers
 		* **v1.2.4** by KyleS & hexa-core-eu
 	
-	* **[[L4D2] Actions](https://forums.alliedmods.net/showthread.php?t=336374)** - Extension provides a natives to hook action event handlers and create custom actions
+	* **[Actions](https://forums.alliedmods.net/showthread.php?t=336374)** - Extension provides a natives to hook action event handlers and create custom actions
 		* **v3.3** by BHaType
 	
 	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
