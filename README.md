@@ -52,7 +52,7 @@
 		* **v1.2.4** by KyleS & hexa-core-eu
 	
 	* **[Actions](https://forums.alliedmods.net/showthread.php?t=336374)** - Extension provides a natives to hook action event handlers and create custom actions
-		* **v3.3** by BHaType
+		* **v3.5.1** by BHaType
 	
 	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
 		* **v1.3** by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/actions)
@@ -89,16 +89,40 @@
 	```
 
 # How to download L4D2 Dedicated Server files:
-* **Step 1:** download [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD).
+* **Step 1:** Download [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD).
 
-* **Step 2:** launch steamcmd , steamcmd would automatically download required files .
+* **Step 2:** Launch steamcmd, steamcmd would automatically download required files .
 
-* **Step 3:** after it says "Loading Steam API...OK.", type
+* **Step 3:** After it says "Loading Steam API...OK.", type
 	* ```force_install_dir ./l4d2/```
 	* ```login anonymous```
 	* ```app_update 222860 validate```
 
-* **Step 4:** finish downloading and quit.
+* **Step 4:** Finish downloading and close steamcmd.
+	* ```exit```
+
+* **Step 5 (Linux Only):** Dependencies ([Source](https://linuxgsm.com/servers/l4d2server/))
+	* Ubuntu =< 20.04
+		```
+		sudo dpkg --add-architecture i386; sudo apt update; sudo apt install curl wget file tar bzip2 gzip unzip bsdmainutils python3 util-linux ca-certificates binutils bc jq tmux netcat lib32gcc1 lib32stdc++6 libsdl2-2.0-0:i386 steamcmd
+		```
+	* Ubuntu => 20.10
+		```
+		sudo dpkg --add-architecture i386; sudo apt update; sudo apt install curl wget file tar bzip2 gzip unzip bsdmainutils python3 util-linux ca-certificates binutils bc jq tmux netcat lib32gcc1 lib32stdc++6 libsdl2-2.0-0:i386 steamcmd
+		```
+	* Debian =< 10
+		```
+		sudo dpkg --add-architecture i386; sudo apt update; sudo apt install curl wget file tar bzip2 gzip unzip bsdmainutils python3 util-linux ca-certificates binutils bc jq tmux netcat lib32gcc1 lib32stdc++6
+		```
+	* Debian => 11
+		```
+		sudo dpkg --add-architecture i386; sudo apt update; sudo apt install curl wget file tar bzip2 gzip unzip bsdmainutils python3 util-linux ca-certificates binutils bc jq tmux netcat lib32gcc-s1 lib32stdc++6
+		```
+	* CentOS
+		```
+		yum install epel-release
+		yum install curl wget tar bzip2 gzip unzip python3 binutils bc jq tmux glibc.i686 libstdc++ libstdc++.i686
+		```
 
 # Others
 * <b>[L4D1-Server4Dead](https://github.com/fbef0102/L4D1-Server4Dead)</b>: Setup your own L4D1 Servers.
