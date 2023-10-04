@@ -52,7 +52,7 @@
 		* **v1.2.4** by KyleS & hexa-core-eu
 	
 	* **[Actions](https://forums.alliedmods.net/showthread.php?t=336374)** - Extension provides a natives to hook action event handlers and create custom actions
-		* **v3.5.1** by BHaType
+		* **v3.5.2** by BHaType
 	
 	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
 		* **v1.3** by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/actions)
