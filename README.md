@@ -21,16 +21,6 @@
 		* **v1.1.0.0** by Spirit_12 & Accelerator74
 
 * Extenstion
-	* **l4d2_bugfixes** - Fix bugs on server have more than 8 players
-		* **v1.0.2** by [V10](https://forums.alliedmods.net/showthread.php?t=121945)
-		* **[windows](https://forums.alliedmods.net/showpost.php?p=2721138&postcount=295)** by Spirit_12, 
-		* **[linux](https://forums.alliedmods.net/showpost.php?p=2752412&postcount=301)** by SpaceWashingMachine
-			```php
-			1. Survivor finale score bug when 5+ players
-			2. Charger stop bug when 5+ players
-			3. Witch incorrect player attack when 5+ players
-			```
-		
 	* **DoS Protect** - Prevents and records attempted DoS (Denial-of-Service) attacks
 		* **v1.1.0.0** by [Zephyrus](https://forums.alliedmods.net/showthread.php?t=196990)
 		* **[windows](https://github.com/cravenge/DoS-Protect_SM)** by cravenge
@@ -52,10 +42,10 @@
 		* **v1.2.4** by KyleS & hexa-core-eu
 	
 	* **[Actions](https://forums.alliedmods.net/showthread.php?t=336374)** - Extension provides a natives to hook action event handlers and create custom actions
-		* **v3.6.2** by BHaType
+		* **v3.6.4** by BHaType
 
 	* **[Resolve Collision](https://forums.alliedmods.net/showthread.php?t=344019)** - Fixes longstanding issues with low nb_update_frequency
-		* **v1.4** by BHaType
+		* **v1.6** by BHaType
 	
 	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
 		* **v1.3** by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/actions)
