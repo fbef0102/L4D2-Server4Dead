@@ -62,19 +62,30 @@
 
 * **Step 2:** Choose "Windows Server files" or "Linux Server files" (depending on the operating system of your server), and place the files provided in the correct folder.
 
-* **Step 3:** Adjust your **server_rates.cfg** to match your rates accordingly.  
+* **Step 3:** Adjust your **server_rates.cfg** and **l4d2_resolve_collision.cfg** to match your server tickrate accordingly.  
 	* For 100 Tickrate, you'd want these settings:
 		```php
+  		// server_rates.cfg
+  
 		sm_cvar sv_minrate 				"100000"
 		sm_cvar sv_maxrate 				"100000"
-		sm_cvar sv_minupdaterate 		"101"
-		sm_cvar sv_maxupdaterate 		"101"
-		sm_cvar sv_mincmdrate 			"101"
-		sm_cvar sv_maxcmdrate 			"101"
+		sm_cvar sv_minupdaterate 			"101"
+		sm_cvar sv_maxupdaterate 			"101"
+		sm_cvar sv_mincmdrate 				"101"
+		sm_cvar sv_maxcmdrate 				"101"
 		sm_cvar rate					"100000"
-		sm_cvar net_splitpacket_maxrate "50000"
+		sm_cvar net_splitpacket_maxrate 		"50000"
 		sm_cvar fps_max    				"0"
 		```
+
+		```php
+  		// l4d2_resolve_collision.cfg
+  
+		// Multiplier of commons collision force
+		// 30tick = 0.65, 60tick = 0.15, 100tick = 0.05
+		z_resolve_zombie_collision_multiplier "0.05"
+		```
+  
 
 * **Step 4:** Change the Launch Parameters.
 	```
