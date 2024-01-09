@@ -50,7 +50,7 @@
 		* **2023-05-19** by MAXMIND
 
 # Server Install
-* **Step 1:** A [clean L4D2 Dedicated Server](https://github.com/fbef0102/L4D2-Server4Dead/blob/master/README.md#how-to-download-l4d2-dedicated-server-files).
+* **Step 1:** A [clean L4D2 Dedicated Server](#how-to-download-l4d2-dedicated-server-files).
 
 * **Step 2:** Choose "Windows Server files" or "Linux Server files" (depending on the operating system of your server), and place the files provided in the correct folder.
 
@@ -85,7 +85,7 @@
 	```
 
 # How to download L4D2 Dedicated Server files:
-* **Step 1:** Download [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD).
+* **Step 1:** [Download steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD).
 
 * **Step 2:** Launch steamcmd, steamcmd would automatically download required files .
 
