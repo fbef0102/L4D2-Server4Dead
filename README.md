@@ -44,10 +44,10 @@
 
 * Extra File
 	* **[GeoLite2-City](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-City.mmdb
-		* **2023-05-19** by MAXMIND
+		* **2023-05-19** by MAXMIND.com
 	
 	* **[GeoLite2-Country](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-Country.mmdb
-		* **2023-05-19** by MAXMIND
+		* **2023-05-19** by MAXMIND.com
 
 # Server Install
 * **Step 1:** A [clean L4D2 Dedicated Server](#how-to-download-l4d2-dedicated-server-files).
@@ -124,6 +124,13 @@
 		yum install curl wget tar bzip2 gzip unzip python3 binutils bc jq tmux glibc.i686 libstdc++ libstdc++.i686
 		yum install zlib.i686
 		```
+# Optional Files
+* Extension
+	* **[cutlrbtreefix](https://github.com/fdxx/cutlrbtreefix/releases)** - Fixed server crash "CUtlRBTree overflow"
+		* **v0.2** by fdxx
+	* **[Accelerator](https://github.com/fdxx/cutlrbtreefix/releases)** - Crash Reporting That Doesn't Suck
+		* **v2.5.0-cd575aa** by asherkin
+		* 🟥 In Linux system, does not work if install this extension with **builtinvotes** and **CollisionHooks**
 
 # Others
 * <b>[L4D1-Server4Dead](https://github.com/fbef0102/L4D1-Server4Dead)</b>: Setup your own L4D1 Servers.
