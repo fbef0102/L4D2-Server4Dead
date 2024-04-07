@@ -39,8 +39,8 @@
 	* **[Resolve Collision](https://forums.alliedmods.net/showthread.php?t=344019)** - Fixes longstanding issues with low nb_update_frequency
 		* **v1.7** by BHaType
 	
-	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
-		* **v1.3** by [VoiDeD](https://forums.alliedmods.net/showthread.php?t=197815)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook/actions)
+	* **[CollisionHooks](https://github.com/voided/CollisionHook)** - Provides a straightforward and easy way to hook and modify collision rules between entities.
+		* **v1.2.0** by VoiDeD
 
 * Extra File
 	* **[GeoLite2-City](https://www.maxmind.com/en/home)** - addons\sourcemod\configs\geoip\GeoLite2-City.mmdb
