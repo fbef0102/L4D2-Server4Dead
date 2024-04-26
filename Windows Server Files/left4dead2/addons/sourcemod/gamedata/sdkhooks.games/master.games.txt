@@ -203,4 +203,12 @@
 	{
 		"game"		"open_fortress"
 	}
+	"game.dystopia.txt"
+	{
+		"game"		"!Dystopia"
+	}
+	"game.tf2classic.txt"
+	{
+		"game"		"tf2classic"
+	}
 }

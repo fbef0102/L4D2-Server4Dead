@@ -3,7 +3,7 @@
 # Linux Server Files/Windows Server Files
 * Main
 	* **[SourceMod](https://www.sourcemod.net/downloads.php?branch=1.11-dev)**
-		* **v1.11-git6945** by AlliedModders LLC	
+		* **v1.11-git6962** by AlliedModders LLC	
 	
 	* **[MetaMod](https://www.sourcemm.net/downloads.php?branch=1.11-dev)**
 		* **v1.11-git1153** by AlliedModders LLC
