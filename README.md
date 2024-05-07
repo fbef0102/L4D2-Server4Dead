@@ -11,10 +11,10 @@
 	* **[stripper](https://www.bailopan.net/stripper/snapshots/1.2/)** - Add, filter and modify map entities
 		* **v1.2.2-git141** by BAILOPAN - Modify Map
 	
-	* **[l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases)** - Unlock Server Slot Limit
+	* **[l4dtoolz](https://github.com/fbef0102/l4dtoolz/releases)** - Unlock Server Slot Limit
 		* **v1.1.0.2** by ivailosp、Accelerator74
 	
-	* **[Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases)** - Unlock Tickrate
+	* **[Tickrate Enabler](https://github.com/fbef0102/Tickrate-Enabler/releases)** - Unlock Tickrate
 		* **v1.5** by ProdigySim、Spirit_12、Accelerator74
 	
 	* **[pounce_damage_uncap](https://github.com/accelerator74/Pounce-Damage-Uncap/actions)** - Unlock Hunter Pounce Damage
