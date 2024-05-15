@@ -3,10 +3,10 @@
 # Linux Server Files/Windows Server Files
 * Main
 	* **[SourceMod](https://www.sourcemod.net/downloads.php?branch=1.11-dev)**
-		* **v1.11-git6962** by AlliedModders LLC	
+		* **v1.11-git6963** by AlliedModders LLC	
 	
 	* **[MetaMod](https://www.sourcemm.net/downloads.php?branch=1.11-dev)**
-		* **v1.11-git1153** by AlliedModders LLC
+		* **v1.11-git1154** by AlliedModders LLC
 	
 	* **[stripper](https://www.bailopan.net/stripper/snapshots/1.2/)** - Add, filter and modify map entities
 		* **v1.2.2-git141** by BAILOPAN - Modify Map
@@ -25,7 +25,7 @@
 		* **v0.7.0** by Powerlord, A1mDev
 	
 	* **[sourcescramble](https://github.com/nosoop/SMExt-SourceScramble/releases)** - memory patches & allocate memory
-		* **v0.7.1.1** by nosoop
+		* **v0.7.1.4** by nosoop
 	
 	* **[REST in Pawn](https://github.com/ErikMinekus/sm-ripext/releases)** - Provides HTTP and JSON natives for plugins
 		* **v1.3.1** by ErikMinekus
@@ -37,7 +37,7 @@
 		* **v3.7.6** by BHaType
 
 	* **[Resolve Collision](https://forums.alliedmods.net/showthread.php?t=344019)** - Fixes longstanding issues with low nb_update_frequency
-		* **v1.7** by BHaType
+		* **v1.8** by BHaType
 	
 	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
 		* **v1.3** by [VoiDeD](https://github.com/voided/CollisionHook)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook)
