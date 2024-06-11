@@ -128,7 +128,8 @@
 * Extension
 	* **[cutlrbtreefix](https://github.com/fdxx/cutlrbtreefix/releases)** - Fixed server crash "CUtlRBTree overflow"
 		* **v0.2** by fdxx
-	* **[Accelerator](https://github.com/fdxx/cutlrbtreefix/releases)** - Crash Reporting That Doesn't Suck
+		
+	* **[Accelerator](https://forums.alliedmods.net/showthread.php?t=277703)** - Crash Reporting That Doesn't Suck
 		* **v2.5.0-cd575aa** by asherkin
 		* 🟥 In Linux system, does not work if install this extension with **builtinvotes** and **CollisionHooks**
 
