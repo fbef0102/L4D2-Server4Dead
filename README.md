@@ -34,7 +34,7 @@
 		* **v1.2.4** by KyleS & hexa-core-eu
 	
 	* **[Actions](https://forums.alliedmods.net/showthread.php?t=336374)** - Extension provides a natives to hook action event handlers and create custom actions
-		* **v3.7.6** by BHaType
+		* **v3.8.8** by BHaType
 
 	* **[Resolve Collision](https://forums.alliedmods.net/showthread.php?t=344019)** - Fixes longstanding issues with low nb_update_frequency
 		* **v1.8** by BHaType
