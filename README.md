@@ -127,7 +127,7 @@
 # Optional Files
 * Extension
 	* **[cutlrbtreefix](https://github.com/fdxx/cutlrbtreefix/releases)** - Fixed server crash "CUtlRBTree overflow"
-		* **v0.2** by fdxx
+		* **v0.3** by fdxx
 		
 	* **[Accelerator](https://forums.alliedmods.net/showthread.php?t=277703)** - Crash Reporting That Doesn't Suck
 		* **v2.5.0-cd575aa** by asherkin
