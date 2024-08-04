@@ -80,7 +80,7 @@
 
 * **Step 4:** Change the Launch Parameters.
 	```
-	-console -game left4dead2 -port 27016 +log on +map c2m1_highway +exec server +sv_lan 0 -tickrate 100 -maxplayers 32
+	-console -game left4dead2 -port 27016 +log on +map c2m1_highway +exec server +sv_lan 0 -tickrate 100 -maxplayers 31
 	```
 
 # How to download L4D2 Dedicated Server files:
