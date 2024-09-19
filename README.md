@@ -15,7 +15,7 @@
 		* **v1.1.0.2** by ivailosp、Accelerator74
 	
 	* **[Tickrate Enabler](https://github.com/fbef0102/Tickrate-Enabler/releases)** - Unlock Tickrate
-		* **v1.5** by ProdigySim、Spirit_12、Accelerator74
+		* **v1.6** by ProdigySim、Spirit_12、Accelerator74、Forgetest
 	
 	* **[pounce_damage_uncap](https://github.com/accelerator74/Pounce-Damage-Uncap/actions)** - Unlock Hunter Pounce Damage
 		* **v1.1.0.0** by Spirit_12 & Accelerator74
@@ -37,8 +37,8 @@
 		* **v3.8.8** by BHaType
 
 	* **[Resolve Collision](https://forums.alliedmods.net/showthread.php?t=344019)** - Fixes longstanding issues with low nb_update_frequency
-		* **v1.8** by BHaType
-	
+		* **1.10.1** by BHaType
+
 	* **CollisionHooks** - Provides a straightforward and easy way to hook and modify collision rules between entities.
 		* **v1.3** by [VoiDeD](https://github.com/voided/CollisionHook)、[Spirit_12](https://github.com/Satanic-Spirit/Collisionhook)、[A1mDev](https://github.com/L4D-Community/Collisionhook)
 
@@ -56,26 +56,24 @@
 
 * **Step 3:** Adjust your **server_rates.cfg** and **l4d2_resolve_collision.cfg** to match your server tickrate accordingly.  
 	* For 100 Tickrate, you'd want these settings:
-		```php
-  		// cfg/server_rates.cfg
-		
-		sm_cvar sv_minrate 				"100000" 	// tickrate * 1000
-		sm_cvar sv_maxrate 				"100000" 	// tickrate * 1000
-		sm_cvar sv_minupdaterate 		"101"	 	// tickrate +1
-		sm_cvar sv_maxupdaterate 		"101"		// tickrate +1
-		sm_cvar sv_mincmdrate 			"101"		// tickrate +1
-		sm_cvar sv_maxcmdrate 			"101"		// tickrate +1
-		sm_cvar net_splitpacket_maxrate "50000" 	// (tickrate÷2) * 1000
-		sm_cvar fps_max					"0"
-		```
+		1. ```cfg/server_rates.cfg```
+			```php
+			sm_cvar sv_minrate 				"100000" 	// tickrate * 1000
+			sm_cvar sv_maxrate 				"100000" 	// tickrate * 1000
+			sm_cvar sv_minupdaterate 		"101"	 	// tickrate +1
+			sm_cvar sv_maxupdaterate 		"101"		// tickrate +1
+			sm_cvar sv_mincmdrate 			"101"		// tickrate +1
+			sm_cvar sv_maxcmdrate 			"101"		// tickrate +1
+			sm_cvar net_splitpacket_maxrate "50000" 	// (tickrate÷2) * 1000
+			sm_cvar fps_max					"0"
+			```
 
-		```php
-  		// cfg/l4d2_resolve_collision.cfg
-  
-		// Multiplier of commons collision force
-		// 30tick = 0.65, 60tick = 0.15, 100tick = 0.05
-		z_resolve_zombie_collision_multiplier "0.05"
-		```
+		2. ```cfg/l4d2_resolve_collision.cfg```
+			```php
+			// Multiplier of commons collision force
+			// 30tick = 0.65, 60tick = 0.15, 100tick = 0.05, 128tick = 0.04
+			z_resolve_zombie_collision_multiplier "0.05"
+			```
   
 
 * **Step 4:** Change the Launch Parameters.
