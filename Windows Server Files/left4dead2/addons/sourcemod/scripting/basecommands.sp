@@ -1,3 +1,5 @@
+//哈利有修改過
+
 /**
  * vim: set ts=4 :
  * =============================================================================
@@ -104,7 +106,7 @@ public void OnPluginStart()
 	sv_cheats.AddChangeHook(ConVarChanged_Cvars);
 }
 
-public void ConVarChanged_Cvars(ConVar convar, const char[] oldValue, const char[] newValue)
+void ConVarChanged_Cvars(ConVar convar, const char[] oldValue, const char[] newValue)
 {
 	iCheats = sv_cheats.IntValue;
 }

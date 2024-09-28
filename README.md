@@ -2,10 +2,10 @@
 > Click [Code->Download Zip](https://github.com/fbef0102/L4D2-Server4Dead/archive/refs/heads/main.zip) to download package
 # Linux Server Files/Windows Server Files
 * Main
-	* **[SourceMod](https://www.sourcemod.net/downloads.php?branch=1.11-dev)**
-		* **v1.11-git6964** by AlliedModders LLC	
+	* **[SourceMod](https://www.sourcemod.net/downloads.php?branch=1.11)**
+		* **v1.11-git6968** by AlliedModders LLC	
 	
-	* **[MetaMod](https://www.sourcemm.net/downloads.php?branch=1.11-dev)**
+	* **[MetaMod](https://www.sourcemm.net/downloads.php?branch=1.11)**
 		* **v1.11-git1155** by AlliedModders LLC
 	
 	* **[stripper](https://www.bailopan.net/stripper/snapshots/1.2/)** - Add, filter and modify map entities

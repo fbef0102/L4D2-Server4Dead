@@ -1,3 +1,5 @@
+//哈利有修改過
+
 /**
  * vim: set ts=4 :
  * =============================================================================
@@ -210,6 +212,7 @@ public Action Command_Who(int client, int args)
 			else if (flags & ADMFLAG_ROOT)
 			{
 				strcopy(flagstring, sizeof(flagstring), "root");
+				FlagBitsToString(flags, ASCIIString, sizeof(ASCIIString));
 			}
 			else
 			{
