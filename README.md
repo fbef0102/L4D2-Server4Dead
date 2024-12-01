@@ -14,8 +14,8 @@
 	* **[l4dtoolz](https://github.com/accelerator74/l4dtoolz/releases)** - Unlock Server Slot Limit
 		* **v2.0.1** by ivailosp、Accelerator74
 	
-	* **[Tickrate Enabler](https://github.com/fbef0102/Tickrate-Enabler/releases)** - Unlock Tickrate
-		* **v1.6** by ProdigySim、Spirit_12、Accelerator74、Forgetest
+	* **[Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases)** - Unlock Tickrate
+		* **v1.5** by ProdigySim、Spirit_12、Accelerator74、Forgetest
 	
 	* **[pounce_damage_uncap](https://github.com/accelerator74/Pounce-Damage-Uncap/actions)** - Unlock Hunter Pounce Damage
 		* **v1.1.0.0** by Spirit_12 & Accelerator74
@@ -71,7 +71,7 @@
 		2. ```cfg/l4d2_resolve_collision.cfg```
 			```php
 			// Multiplier of commons collision force
-			// 30tick = 0.65, 60tick = 0.15, 100tick = 0.05, 128tick = 0.04
+			// 30tick = 0.65, 60tick = 0.15, 100tick = 0.05
 			z_resolve_zombie_collision_multiplier "0.05"
 			```
   
