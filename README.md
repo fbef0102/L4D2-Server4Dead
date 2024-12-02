@@ -88,7 +88,9 @@
 
 * **Step 3:** After it says "Loading Steam API...OK.", type
 	* ```force_install_dir ./l4d2/```
-	* ```login anonymous```
+	* ```login xxxx```
+		* xxxx is your steam account number 
+		* Enter your steam account password
 	* ```app_update 222860 validate```
 
 * **Step 4:** Finish downloading and close steamcmd.
